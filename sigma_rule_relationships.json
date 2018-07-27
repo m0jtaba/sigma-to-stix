@@ -1,0 +1,2095 @@
+{
+    "type": "bundle",
+    "id": "bundle--6ded4324-d2c4-4f4a-a60d-227cbd8866bb",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "relationship",
+            "id": "relationship--9bcf992c-a1ba-4f39-9090-adb30f7eefb3",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.054Z",
+            "modified": "2018-07-27T14:34:38.054Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--326fd25d-6b9c-428e-bed7-af029e6e0a4b",
+            "target_ref": "attack-pattern--9b99b83a-1aac-4e29-b975-b374950551a3",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--23ca3eb2-a10f-4863-b366-361f6ffda7b2",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.058Z",
+            "modified": "2018-07-27T14:34:38.058Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b2cc25b5-436d-4737-b0fd-c6f6734a873a",
+            "target_ref": "attack-pattern--72b74d71-8169-42aa-92e0-e7b04b9f5a08",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--f489f153-3a02-44bd-aa0a-8a3a84f83c07",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.058Z",
+            "modified": "2018-07-27T14:34:38.058Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--41e7ef1f-69ee-4c83-9c7e-1c7de022392a",
+            "target_ref": "attack-pattern--72b74d71-8169-42aa-92e0-e7b04b9f5a08",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b42b7576-7350-44e4-9997-884fddebe1be",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.101Z",
+            "modified": "2018-07-27T14:34:38.101Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--c6dc34c2-c440-46d8-a286-79a98af56ac0",
+            "target_ref": "attack-pattern--c8e87b83-edbb-48d4-9295-4974897525b7",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--9176f390-1f59-4882-acbf-f7b33f2479cd",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.120Z",
+            "modified": "2018-07-27T14:34:38.120Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--675b3252-198c-482e-bbe4-95be3d97cd3f",
+            "target_ref": "attack-pattern--7d6f590f-544b-45b4-9a42-e0805f342af3",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--1c5882b4-390c-4a69-b5b5-5e35e0c83911",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.130Z",
+            "modified": "2018-07-27T14:34:38.130Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2a1810bc-8999-45bc-97c4-ef3f872a73d5",
+            "target_ref": "attack-pattern--1b84d551-6de8-4b96-9930-d177677c3b1d",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--824247f4-4ca6-4911-a5fc-ff4cad9d001e",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.134Z",
+            "modified": "2018-07-27T14:34:38.134Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--e53c8ceb-716c-4c5d-9302-0a16fafd89cf",
+            "target_ref": "attack-pattern--7385dfaf-6886-4229-9ecd-6fd678040830",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--9b393942-0f61-42a6-a2c1-da163f11d543",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.134Z",
+            "modified": "2018-07-27T14:34:38.134Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b00cc7c0-5a30-4e9a-91f3-064e8d4d1199",
+            "target_ref": "attack-pattern--7385dfaf-6886-4229-9ecd-6fd678040830",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--d53007e7-474a-4b89-b995-233190993bfd",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.135Z",
+            "modified": "2018-07-27T14:34:38.135Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--33a91221-ffca-40de-af3c-c8e2a10c7932",
+            "target_ref": "attack-pattern--7385dfaf-6886-4229-9ecd-6fd678040830",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e38b5a09-988c-474f-9bff-87f64c992e42",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.136Z",
+            "modified": "2018-07-27T14:34:38.136Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--41e7ef1f-69ee-4c83-9c7e-1c7de022392a",
+            "target_ref": "attack-pattern--7385dfaf-6886-4229-9ecd-6fd678040830",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--2af02f4e-b439-471d-b6c0-b21242334d67",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.156Z",
+            "modified": "2018-07-27T14:34:38.156Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--3aa80573-1a06-4851-b514-ac707bda5b72",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--43095621-cf63-4ef4-9d40-8d11eb27b8e7",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.157Z",
+            "modified": "2018-07-27T14:34:38.157Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2d7c7a15-3824-4037-b874-45a20f769b56",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--2da657f0-59e5-43c1-881a-a6b0212a8337",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.158Z",
+            "modified": "2018-07-27T14:34:38.158Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--9786e11d-6110-4199-aeca-a3a1923edfef",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--d9289367-96cb-4b1f-8b3a-3eaccb580aff",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.160Z",
+            "modified": "2018-07-27T14:34:38.160Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--4d40fcbe-36d1-45d6-8e65-3b5cc7a32b44",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--91684f76-f469-4617-8d41-66f74107deee",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.161Z",
+            "modified": "2018-07-27T14:34:38.161Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--f034db84-81c3-4cfd-b75e-e09a4472ece2",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--c56d338a-3dcf-4286-8885-a202e2d99c22",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.162Z",
+            "modified": "2018-07-27T14:34:38.162Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--cd2ee1c1-5594-4dd2-a0ad-f2165fec4186",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ad6ea078-7d25-47f5-a26f-bb7031e59c3e",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.164Z",
+            "modified": "2018-07-27T14:34:38.164Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--995ac0b5-b6af-460a-bc0d-1c5e409f46bb",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--6ebb9fcc-ef1a-4b14-9197-e44a2be8475b",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.166Z",
+            "modified": "2018-07-27T14:34:38.166Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--ab5ad65d-2362-4f5f-924e-6ab177d2525c",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--f676f38f-766b-4bf7-9292-f582915e7d5c",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.167Z",
+            "modified": "2018-07-27T14:34:38.167Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--1453ecb5-69c5-4f23-80c2-e4cc6a4c8f8d",
+            "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--00b3de35-8f1a-463c-8d18-9d6f879c4748",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.186Z",
+            "modified": "2018-07-27T14:34:38.186Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--04fb5e2a-74f5-4e1b-a337-e71b43838c70",
+            "target_ref": "attack-pattern--b2001907-166b-4d71-bb3c-9d26c871de09",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--868ce07d-9498-4d7d-9a9a-a5fa7f71da75",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.213Z",
+            "modified": "2018-07-27T14:34:38.213Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--d6e546a2-c3a0-4a71-acd8-5fb582b31163",
+            "target_ref": "attack-pattern--3ccef7ae-cb5e-48f6-8302-897105fbf55c",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--d53b8441-f325-4980-9750-55b07a147870",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.216Z",
+            "modified": "2018-07-27T14:34:38.216Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--05624ae1-5b0c-46f2-99e8-105e317dd26e",
+            "target_ref": "attack-pattern--3ccef7ae-cb5e-48f6-8302-897105fbf55c",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--cd1a2335-dafd-4d68-967c-2475563f3b66",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.225Z",
+            "modified": "2018-07-27T14:34:38.225Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b809d99a-c87d-4653-9da5-ba30ab9da2b5",
+            "target_ref": "attack-pattern--1ce03c65-5946-4ac9-9d4d-66db87e024bd",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--38e9d0c3-de8a-43f8-8b7b-e4aa2ffa7c73",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.237Z",
+            "modified": "2018-07-27T14:34:38.237Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--41e7ef1f-69ee-4c83-9c7e-1c7de022392a",
+            "target_ref": "attack-pattern--1608f3e1-598a-42f4-a01a-2e252e81728f",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b20a47de-027f-4f3d-9c10-18d71892b15a",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.255Z",
+            "modified": "2018-07-27T14:34:38.255Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--58b6b11d-a7d5-4254-bc53-fc515152c2d0",
+            "target_ref": "attack-pattern--3f886f2a-874f-4333-b794-aa6075009b1c",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--f4c9be6a-7829-4daf-b2c9-6878f72b1b23",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.263Z",
+            "modified": "2018-07-27T14:34:38.263Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--516ccd73-6978-46b1-b42f-e26c847067fc",
+            "target_ref": "attack-pattern--9c306d8d-cde7-4b4c-b6e8-d0bb16caca36",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--49f4275c-2b34-40ae-8331-84e4ab8a0371",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.266Z",
+            "modified": "2018-07-27T14:34:38.266Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--1aba9102-9673-46e6-a0b4-6479d53e85d6",
+            "target_ref": "attack-pattern--9c306d8d-cde7-4b4c-b6e8-d0bb16caca36",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ac2a1a6a-8d53-414f-8cd7-7194192ec171",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.268Z",
+            "modified": "2018-07-27T14:34:38.268Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b8d8b629-c913-4f23-a776-04fc60651958",
+            "target_ref": "attack-pattern--9c306d8d-cde7-4b4c-b6e8-d0bb16caca36",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--1303e654-ef3f-492d-a194-5a5c24620b6d",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.273Z",
+            "modified": "2018-07-27T14:34:38.273Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--223d7809-8222-496b-83ba-b7104682dd07",
+            "target_ref": "attack-pattern--fe926152-f431-4baf-956c-4ad3cb0bf23b",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b786de08-5f21-4687-ad7d-d49d93cba684",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.278Z",
+            "modified": "2018-07-27T14:34:38.278Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b0e11cc6-9469-4b59-a4b9-7dc11e7b79e8",
+            "target_ref": "attack-pattern--b21c3b2d-02e6-45b1-980b-e69051040839",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--68148887-bff5-41fa-a515-8d124aa7ed99",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.302Z",
+            "modified": "2018-07-27T14:34:38.302Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2a1810bc-8999-45bc-97c4-ef3f872a73d5",
+            "target_ref": "attack-pattern--56fca983-1cf1-4fd1-bda0-5e170a37ab59",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e4443cd2-0b4b-4c73-ba11-6eee45f13786",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.304Z",
+            "modified": "2018-07-27T14:34:38.304Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--f0f6bb23-ef0a-4260-99e6-2773cc6d3c05",
+            "target_ref": "attack-pattern--56fca983-1cf1-4fd1-bda0-5e170a37ab59",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e619de2b-c65a-4f5e-9bce-fb64d5432b5d",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.342Z",
+            "modified": "2018-07-27T14:34:38.342Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2084ed57-a674-4455-a7af-6bbf73f15ceb",
+            "target_ref": "attack-pattern--6a5848a8-6201-4a2c-8a6a-ca5af8c6f3df",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--5cc40fa8-27c5-47b7-8dba-707fa9e7f885",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.350Z",
+            "modified": "2018-07-27T14:34:38.350Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--3aa80573-1a06-4851-b514-ac707bda5b72",
+            "target_ref": "attack-pattern--799ace7f-e227-4411-baa0-8868704f2a69",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e7e4833f-e4f5-4280-b19e-5fa2fb086516",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.353Z",
+            "modified": "2018-07-27T14:34:38.353Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--0f6203c2-7b4a-43af-8fe6-1b63b27e2bd8",
+            "target_ref": "attack-pattern--799ace7f-e227-4411-baa0-8868704f2a69",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--af8ef41f-06cd-42ad-94a1-3d643eb24293",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.357Z",
+            "modified": "2018-07-27T14:34:38.357Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--1f3cf772-f851-4ae2-a216-80d62868cf3c",
+            "target_ref": "attack-pattern--799ace7f-e227-4411-baa0-8868704f2a69",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--59f24df3-46e3-449d-8191-a1a018d1c687",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.360Z",
+            "modified": "2018-07-27T14:34:38.360Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--ffd85d91-f8ff-4184-8471-9aec5d08882b",
+            "target_ref": "attack-pattern--799ace7f-e227-4411-baa0-8868704f2a69",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e7b2c6b0-d9c9-4d0c-8704-0e138f931081",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.366Z",
+            "modified": "2018-07-27T14:34:38.366Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--33a91221-ffca-40de-af3c-c8e2a10c7932",
+            "target_ref": "attack-pattern--3b0e52ce-517a-4614-a523-1bd5deef6c5e",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--5f584b1a-5e38-4bff-94d7-b34aceba6ef0",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.381Z",
+            "modified": "2018-07-27T14:34:38.381Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--95b210b0-7297-4c35-a606-041a5f028467",
+            "target_ref": "attack-pattern--b39d03cb-7b98-41c4-a878-c40c1a913dc0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--36091764-c346-4fc1-8935-61c68b216ffa",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.384Z",
+            "modified": "2018-07-27T14:34:38.384Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--72e6fe7e-8208-4411-90e8-c1847f471297",
+            "target_ref": "attack-pattern--b39d03cb-7b98-41c4-a878-c40c1a913dc0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--7b880410-3b99-4a6f-852a-49c648494757",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.420Z",
+            "modified": "2018-07-27T14:34:38.420Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--8f044ce2-cc1b-44da-873c-a59833785a45",
+            "target_ref": "attack-pattern--42e8de7b-37b2-4258-905a-6897815e58e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--88ea159c-b20a-4c7f-b45a-2e57f2f99b93",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.423Z",
+            "modified": "2018-07-27T14:34:38.423Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--7e8033e5-fb79-4cfa-b0ff-082ac1a07f81",
+            "target_ref": "attack-pattern--42e8de7b-37b2-4258-905a-6897815e58e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--843de6b6-78e1-4e03-9bb0-a045b74c64de",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.434Z",
+            "modified": "2018-07-27T14:34:38.434Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--e81c5751-db53-4525-a118-1e3775d81fcd",
+            "target_ref": "attack-pattern--a127c32c-cbb0-4f9d-be07-881a792408ec",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--a7c88e30-aab9-4813-9bf6-42531b3d8963",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.463Z",
+            "modified": "2018-07-27T14:34:38.463Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--cf4b2c79-8ae9-4a86-a021-caf7179aac33",
+            "target_ref": "attack-pattern--478aa214-2ca7-4ec0-9978-18798e514790",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b59c12b2-b814-4d43-898e-adcffa755a87",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.466Z",
+            "modified": "2018-07-27T14:34:38.466Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--6caf71ef-5644-4781-996f-4b62f911c8f4",
+            "target_ref": "attack-pattern--478aa214-2ca7-4ec0-9978-18798e514790",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--bf9c4c2b-d62a-4f33-9478-c709c2f16bf3",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.471Z",
+            "modified": "2018-07-27T14:34:38.471Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--d82dc8f0-abc1-40e2-a2d3-17f0cb76cc4b",
+            "target_ref": "attack-pattern--478aa214-2ca7-4ec0-9978-18798e514790",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--51150be0-08aa-466e-98e2-b1d0e493aff2",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.475Z",
+            "modified": "2018-07-27T14:34:38.475Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--04d47f7a-1a0c-4518-8557-44c9bb61490f",
+            "target_ref": "attack-pattern--478aa214-2ca7-4ec0-9978-18798e514790",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--0537f0c2-807e-466a-bc31-cadf5907467f",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.483Z",
+            "modified": "2018-07-27T14:34:38.483Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2ac9ff89-ef90-4065-a3d6-c3e3b620f0e7",
+            "target_ref": "attack-pattern--b3d682b6-98f2-4fb0-aa3b-b4df007ca70a",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--8fbea308-c77e-4c14-8904-199e0f89400c",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.492Z",
+            "modified": "2018-07-27T14:34:38.492Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--41e7ef1f-69ee-4c83-9c7e-1c7de022392a",
+            "target_ref": "attack-pattern--c23b740b-a42b-47a1-aec2-9d48ddd547ff",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--780670fa-0870-4606-b59a-9cf2d43a158a",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.496Z",
+            "modified": "2018-07-27T14:34:38.496Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--a02f22d4-0ab2-4622-822a-8f59f1f0a775",
+            "target_ref": "attack-pattern--c23b740b-a42b-47a1-aec2-9d48ddd547ff",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--bc802320-002a-4286-8473-0635a17f80bf",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.500Z",
+            "modified": "2018-07-27T14:34:38.500Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--9503032c-de40-4933-9fb8-69fda64f7eca",
+            "target_ref": "attack-pattern--c23b740b-a42b-47a1-aec2-9d48ddd547ff",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--3e30d6af-945f-4992-81de-5957d57bb3af",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.519Z",
+            "modified": "2018-07-27T14:34:38.519Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--b2cc25b5-436d-4737-b0fd-c6f6734a873a",
+            "target_ref": "attack-pattern--15dbf668-795c-41e6-8219-f0447c0e64ce",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--8e70002d-85d9-4dd1-9b9e-14fae2054ea3",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.546Z",
+            "modified": "2018-07-27T14:34:38.546Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--abd5c21e-11ac-4f1e-91aa-83d1449c8f8c",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--90d1376a-c0bf-4f4f-8cfa-983f367abf60",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.551Z",
+            "modified": "2018-07-27T14:34:38.551Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--faa792f8-c04c-4c67-b355-3dfb4c8227c9",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e3c8064f-82b3-4e0c-8ea3-fff1b375cebb",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.555Z",
+            "modified": "2018-07-27T14:34:38.555Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--357bb8cd-0388-487d-9982-e45e0cbe4e2d",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--f3b0fbc2-444d-4872-aea2-c9015907d079",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.560Z",
+            "modified": "2018-07-27T14:34:38.560Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--8a95ab97-d7e3-4146-b010-d0b253b3ceca",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ef26d841-3271-4870-9a76-8e821d7b3d71",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.565Z",
+            "modified": "2018-07-27T14:34:38.565Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--a0e3e989-494d-4350-9554-888ba53b30ef",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--8b76de57-09ed-4b85-ac0c-b12fb94f3560",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.570Z",
+            "modified": "2018-07-27T14:34:38.570Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--07132031-ef1d-4e8d-b1cd-52e1f356825c",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--1b43b6d5-e9e3-49be-90ae-63f5c39aea31",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.575Z",
+            "modified": "2018-07-27T14:34:38.575Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--44f14834-9222-401c-a7f9-afc4f5ca8f50",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--049a59cf-0a6f-4cd4-8619-c3a0e2a82c81",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.580Z",
+            "modified": "2018-07-27T14:34:38.580Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--6e31d397-8222-429b-b6d4-e05c6806c8a3",
+            "target_ref": "attack-pattern--f4882e23-8aa7-4b12-b28a-b349c12ee9e0",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--c482cf14-3f11-46c1-b435-53445d82c2cd",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.597Z",
+            "modified": "2018-07-27T14:34:38.597Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--61a80c2e-9c79-4b94-a300-8c11fa426238",
+            "target_ref": "attack-pattern--43e7dc91-05b2-474c-b9ac-2ed4fe101f4d",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--9d01e612-7dc9-4a64-a8da-4e5dcf91970a",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.614Z",
+            "modified": "2018-07-27T14:34:38.614Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--ad9f3126-90d9-4dea-b288-8a8982305a5e",
+            "target_ref": "attack-pattern--9422fc14-1c43-410d-ab0f-a709b76c72dc",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--27870875-4388-453e-9c7d-e7899f49e24c",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.632Z",
+            "modified": "2018-07-27T14:34:38.632Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--131b244b-1469-47ab-95e3-182e3bd47dc8",
+            "target_ref": "attack-pattern--e6919abc-99f9-4c6c-95a5-14761e7b2add",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b92ca82f-4020-4a0b-a1ce-d20cd42eeca5",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.649Z",
+            "modified": "2018-07-27T14:34:38.649Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--3aa80573-1a06-4851-b514-ac707bda5b72",
+            "target_ref": "attack-pattern--62b8c999-dcc0-4755-bd69-09442d9359f5",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--c8c7aa1b-6223-41be-baf2-9d562b458598",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.655Z",
+            "modified": "2018-07-27T14:34:38.655Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--400d6587-c1eb-4850-b6cd-49c556dcff14",
+            "target_ref": "attack-pattern--62b8c999-dcc0-4755-bd69-09442d9359f5",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--def80f61-10ff-45e1-bea0-8a2030f52ee0",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.664Z",
+            "modified": "2018-07-27T14:34:38.664Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--d6393609-0151-47b9-b9bb-e689c072ae23",
+            "target_ref": "attack-pattern--1df0326d-2fbc-4d08-a16b-48365f1e742d",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e65bc1e1-d606-469b-9902-cd4f732a595f",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.678Z",
+            "modified": "2018-07-27T14:34:38.678Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--e160b358-0a6f-46e2-9356-d606566a3979",
+            "target_ref": "attack-pattern--35dd844a-b219-4e2b-a6bb-efa9a75995a9",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--5700beae-7a91-46f5-bbb8-389fd2901ba0",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.684Z",
+            "modified": "2018-07-27T14:34:38.684Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--2b8a9aaf-cbca-4f81-9353-d6f54882bae8",
+            "target_ref": "attack-pattern--35dd844a-b219-4e2b-a6bb-efa9a75995a9",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--88bc6a1e-0578-46d8-bf0f-9818cdae2dda",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.689Z",
+            "modified": "2018-07-27T14:34:38.689Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--395b8a60-5e95-41e4-9678-a4cd62b06674",
+            "target_ref": "attack-pattern--35dd844a-b219-4e2b-a6bb-efa9a75995a9",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--2ef2b8d6-1929-41df-bcc9-151b24b907ca",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.695Z",
+            "modified": "2018-07-27T14:34:38.695Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--29907c40-241a-4f96-8b14-ae94826e95ba",
+            "target_ref": "attack-pattern--35dd844a-b219-4e2b-a6bb-efa9a75995a9",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--e42b7410-cf96-4438-adf1-17fb3886f740",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.710Z",
+            "modified": "2018-07-27T14:34:38.710Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--1241869d-9a3b-49a6-9e86-632de88bc07c",
+            "target_ref": "attack-pattern--7fd87010-3a00-4da3-b905-410525e8ec44",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--eba7d46d-35b9-44a3-842c-66ed612795ab",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.725Z",
+            "modified": "2018-07-27T14:34:38.725Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--29305028-5b1f-49df-8594-c9521dac6548",
+            "target_ref": "attack-pattern--f44731de-ea9f-406d-9b83-30ecbb9b4392",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--afd9c801-09a7-489b-bf64-988ed057afc0",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.732Z",
+            "modified": "2018-07-27T14:34:38.732Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--efdb3133-90bc-4f24-ba12-bccd10ee03cd",
+            "target_ref": "attack-pattern--f44731de-ea9f-406d-9b83-30ecbb9b4392",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ab7b9e31-77dc-4d70-93a9-9ef3e44f4064",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.739Z",
+            "modified": "2018-07-27T14:34:38.739Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--af44335e-0a76-4344-80fd-6a33ff57f19a",
+            "target_ref": "attack-pattern--f44731de-ea9f-406d-9b83-30ecbb9b4392",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--d2755b93-8ff8-48d1-80d7-bf3bb7059704",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.800Z",
+            "modified": "2018-07-27T14:34:38.800Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--e05bade6-8160-4020-ae52-7761518ae090",
+            "target_ref": "attack-pattern--03d7999c-1f4c-42cc-8373-e7690d318104",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--dad2a80b-483a-4327-b801-38e252df9db6",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.850Z",
+            "modified": "2018-07-27T14:34:38.850Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--1db80a28-e64d-449b-ac3c-496e8b4bad2f",
+            "target_ref": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b352c2b0-a507-447e-a66b-1216e47ed5a0",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.857Z",
+            "modified": "2018-07-27T14:34:38.857Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--8525fccb-44db-4de2-8d75-4cfcf58e61f5",
+            "target_ref": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--2c022cf3-ce9d-4d69-bfae-9c1090634841",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.864Z",
+            "modified": "2018-07-27T14:34:38.864Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--176cbf3b-b930-4289-bafc-04094c1515a8",
+            "target_ref": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--b85feb60-cc64-4607-9e55-549d26497149",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.870Z",
+            "modified": "2018-07-27T14:34:38.870Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--3189f507-5d0f-49d6-977f-f361599d7bc0",
+            "target_ref": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--7138a28b-6a64-4b81-a024-fd075a5561cc",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.877Z",
+            "modified": "2018-07-27T14:34:38.877Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--25f21eeb-9499-4f8c-8572-35c2177e9e78",
+            "target_ref": "attack-pattern--b17a1a56-e99c-403c-8948-561df0cffe81",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--f47d3460-6e56-4c1d-9531-e4d4d841b1b4",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.891Z",
+            "modified": "2018-07-27T14:34:38.891Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--58b6b11d-a7d5-4254-bc53-fc515152c2d0",
+            "target_ref": "attack-pattern--c16e5409-ee53-4d79-afdc-4099dc9292df",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--988537d0-937e-4875-b6dd-c6daeeddfa4c",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.898Z",
+            "modified": "2018-07-27T14:34:38.898Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--8458e3ff-4faa-4b2c-9d5b-ad184f6395ed",
+            "target_ref": "attack-pattern--c16e5409-ee53-4d79-afdc-4099dc9292df",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ff054ef6-1fa9-4fff-830c-91dfb7e44743",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.907Z",
+            "modified": "2018-07-27T14:34:38.907Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--af44335e-0a76-4344-80fd-6a33ff57f19a",
+            "target_ref": "attack-pattern--ffe742ed-9100-4686-9e00-c331da544787",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--18e04454-e12c-4df2-98c4-372e20810ea6",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.914Z",
+            "modified": "2018-07-27T14:34:38.914Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--9e60523c-59b8-4e13-b418-2e78093d1bad",
+            "target_ref": "attack-pattern--ffe742ed-9100-4686-9e00-c331da544787",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--5854c67f-509b-45e6-b4c5-940db799843a",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.923Z",
+            "modified": "2018-07-27T14:34:38.923Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--71956594-b51d-407a-b53a-cb4431849ae1",
+            "target_ref": "attack-pattern--01a5a209-b94c-450b-b7f9-946497d91055",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--ac0d7722-6f97-4fd7-b08a-8c85bdb1b865",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.930Z",
+            "modified": "2018-07-27T14:34:38.930Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--7b24a8cf-f1b6-484f-aed2-5d10d401f3ef",
+            "target_ref": "attack-pattern--01a5a209-b94c-450b-b7f9-946497d91055",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--97b58ebe-df07-4b9b-af22-3a5fc6a9b12b",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-07-27T14:34:38.935Z",
+            "modified": "2018-07-27T14:34:38.935Z",
+            "relationship_type": "sigma_rules",
+            "description": "Example",
+            "source_ref": "x-sigma-rules--ce096cf7-c011-45ce-939f-03d3427bdc48",
+            "target_ref": "attack-pattern--01a5a209-b94c-450b-b7f9-946497d91055",
+            "labels": [
+                "Example"
+            ],
+            "external_references": [
+                {
+                    "source_name": "Example",
+                    "url": "https://example.com",
+                    "description": "Example"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ]
+        }
+    ]
+}
